@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="1026.7206"
-     inkscape:cy="750.89564"
+     inkscape:zoom="0.25"
+     inkscape:cx="1363.8736"
+     inkscape:cy="1177.9207"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -88,7 +88,7 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 145.5,28.499597 V 276.49988 l -2.5,10e-5 v -237 h -2.5 v 216.99994 l -3.5,20 h -21 l -3,-20 V 39.499517 h -2.5 V 256.49992 l -3,20 -21.5,-10e-6 -3,-19.99993 v -217 h -2.5 v 217 l -3,20 -21.5,-1.4e-4 -3,-19.99986 v -217 h -2.5 v 217 l -3,20 -23.5,-1.5e-4 V 28.49998 Z"
+       d="M 145.5,28.499597 V 270.14988 L 143,254.80415 V 39.49998 h -2.5 v 216.99994 l -3.5,20 h -21 l -3,-20 V 39.499517 h -2.5 V 256.49992 l -3,20 -21.5,-10e-6 -3,-19.99993 v -217 h -2.5 v 217 l -3,20 -21.5,-1.4e-4 -3,-19.99986 v -217 h -2.5 v 217 l -3,20 -23.5,-1.5e-4 V 28.49998 Z"
        id="rect1161-7"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
     <g
@@ -126,8 +126,8 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 170.5,28.499593 V 276.49988 l 2.5,10e-5 V 39.499973 h 2.5 V 256.49992 l 3.5,20 h 21 l 3,-20 V 39.499513 h 2.5 V 256.49992 l 3,20 21.5,-10e-6 3.00001,-19.99993 V 39.499973 h 2.5 V 256.49998 l 3,20 21.49999,-1.4e-4 3.00001,-19.99986 V 39.499973 h 2.5 V 256.49998 l 3,20 L 292,276.49983 V 28.499973 Z"
-       id="rect1161-7-3"
+       d="M 150.5,28.4996 V 270.1499 L 153,254.80417 V 39.49998 h 2.5 v 216.99996 l 3.5,20 h 21 l 3,-20 V 39.49952 h 2.5 v 217.00042 l 3,20 21.5,-10e-6 L 213,256.5 V 39.49998 h 2.5 V 256.5 l 3,20 21.5,-1.4e-4 L 243,256.5 V 39.49998 h 2.5 V 256.5 l 3,20 23.5,-1.5e-4 V 28.49998 Z"
+       id="rect1161-7-6"
        sodipodi:nodetypes="cccccccccccccccccccccccccccc" />
   </g>
 </svg>
